@@ -8,8 +8,8 @@ public class OperacoesMatematicas {
         return x * y;
     }
 
-    public int subtracao(int x, int y) {
-        return x - y;
+    public int subtracao(Double x, Double y) {
+        return x.compareTo(y);
     }
 
 }
