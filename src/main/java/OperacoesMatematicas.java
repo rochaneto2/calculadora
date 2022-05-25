@@ -4,4 +4,8 @@ public class OperacoesMatematicas {
         return x + y;
     }
 
+    public int multiplicacao(int x, int y) {
+        return x * y;
+    }
+
 }
