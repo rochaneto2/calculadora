@@ -8,8 +8,8 @@ public class OperacoesMatematicas {
         return x * y;
     }
 
-    public long subtracao(long x, long y) {
-        return x - y;
+    public long subtracao(long a, long b) {
+        return a - b;
     }
 
 }
