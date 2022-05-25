@@ -8,7 +8,7 @@ public class OperacoesMatematicas {
         return x * y;
     }
 
-    public int subtracao(int x, int y) {
+    public long subtracao(long x, long y) {
         return x - y;
     }
 
